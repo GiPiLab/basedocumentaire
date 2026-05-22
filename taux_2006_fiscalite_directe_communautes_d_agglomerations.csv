@@ -1,0 +1,167 @@
+;;;Taux votés par les communautés d'agglomérations en 2006;;;
+;;;en pourcentage;;;
+N° du département;N° siren;Nom du groupement;Taxe d'habitation;Foncier bâti;Foncier non bâti;Taxe professionnelle
+1;240100628;CA de Bourg en Bresse;;;;15,19
+2;240200261;CA de Saint Quentin;;;;18,21
+2;240200477;CA du Soissonais;;;;13,75
+3;240300426;CA de Vichy Val d'Allier;0,303;0,384;0,747;16,2
+3;240300608;CA Montluçonnaise;;;;18,21
+3;240300616;CA de Moulins;;;;16,06
+6;240600460;CA du Moyen Pays Provençal - Pôle Azur Provence;;;;20,95
+6;240600551;CA de la Riviera Française;;;;24,78
+6;240600577;CA de Nice - Côte d’Azur;;;;21,02
+6;240600585;CA de Sophia Antipolis;;;;16,25
+8;240801001;CA de Charleville-Mézières;;;;11,58
+10;241000397;CA Troyenne - CAT;;;;13,75
+11;241100460;CA du Carcassonnais;;;;21,33
+11;241100593;CA de la Narbonnaise;;;;14,54
+12;241200187;CA du Grand Rodez;;;;17,4
+13;241300201;CA Salon-Etang de Berre-Durance;;;;19,24
+13;241300268;CA Garlaban Huveaune - Sainte Baume;;;;26,9
+13;241300276;CA du Pays d'Aix-en-Provence;;;;19
+13;241300409;CA de l’Ouest de l’Étang de Berre;;;;24,71
+13;241300417;CA Arles - Crau - Camargues - Montagnette;;;;24,22
+14;241400498;CA Caen la Mer;;;;16,06
+15;241500230;CA du Bassin d'Aurillac;;;;16,48
+16;241600253;CA du Grand Angoulême;;;;16,51
+17;241700434;CA de La Rochelle;;;;17,94
+17;241700566;CA du Pays Rochefortais;;;;16,4
+17;241700640;CA du Pays Royannais;;;;11,23
+18;241800507;CA Bourges Plus;;;;14,83
+19;241927300;CA de Brive;;;;18,76
+21;242100410;CA Grand Dijon;;;;15,95
+22;242200517;CA de Saint Brieuc (CABRI);0,404;0,429;1,67;17,7
+22;242200798;CA de Lannion Trégor;;;;14,54
+24;242400620;CA Périgourdine;;;;16,96
+25;242500361;CA du Grand Besançon;;;;15,47
+25;242503886;CA du Pays de Montbéliard;;;;14,36
+27;242700409;CA Seine - Eure;;;;14,93
+27;242700573;CA d'Évreux;;;;16,76
+27;242700649;CA des Portes de l'Eure;;;;12,14
+28;242800191;CA de Chartres Métropole;;;;15,49
+28;242852440;CA du Drouais;;;;14,38
+29;242900728;CA Quimper Communauté;;;;16,25
+29;242900835;CA du Pays de Morlaix;;;;13,02
+2A;242010056;CA du Pays Ajaccien;;;;23,58
+2B;242000354;CA de Bastia;;;;26,12
+30;243000288;CA du Grand Alès en Cévennes;;;;17,24
+30;243000643;CA Nîmes Métropole;;;;22,77
+31;243100518;CA du Grand Toulouse;;;;19,88
+31;243100633;CA Sicoval;;;;19,31
+31;243100690;CA du Muretin;;;;18,62
+33;243300563;CA du Bassin d’Arcachon Sud - Pôle Atlantique;;;;19,45
+34;243400017;CA Montpellier Agglomération;;;;22,64
+34;243400769;CA Béziers Méditerranée;;;;21,32
+34;243400819;CA Hérault Méditerranée;;;;19,94
+34;243400827;CA du Bassin de Thau;;;;27,12
+35;243500139;CA Rennes Métropole;0,949;1,02;2,13;16,18
+35;243500527;CA Vitré communauté;;;;11,9
+35;243500782;CA de Saint Malo Aggloméraion;;;;15,98
+36;243600327;CA Castelroussine;;;;16,12
+37;243700754;CA Tours Plus;;;;15,27
+38;243800455;CA du Pays Viennois;;;;14,93
+38;243800901;CA Grenoble Alpes Métropole;;;;21,32
+38;243800984;CA du Pays Voironnais;;;;16,83
+40;244000808;CA du Marsan;1,88;1,84;4,12;19,19
+41;244100657;CA de Blois Agglopolis;;;;16,71
+42;244200341;CA le Grand Roanne;0,589;1,18;2,81;18,09
+42;244200770;CA de Saint Etienne Métropole;;;;17,2
+42;244200796;CA Loire-Forez;;;;14,98
+43;244300018;CA du Puy-en-Velay;;;;15,08
+44;244400610;CA de la Presqu'île de Guérande - Atlantique (CAP Atlantique);;;;17,74
+44;244400644;CA Région Nazairienne et de l’Estuaire (la CARENE);;;;16,46
+45;244500203;CA Montargoise et des Rives du Loing;;;;18,95
+45;244500468;CA d'Orléans - Val de Loire;;;;18
+47;244701421;CA d’Agen;;;;17,41
+49;244900015;CA Angers Loire Métropole;;;;17,7
+49;244900361;CA Saumur Loire Développement;;;;12,15
+49;244900700;CA du Choletais;;;;14,64
+51;245100011;CA de Reims;;;;20,85
+51;245100029;CA de Châlons en Champagne;;;;16,31
+53;245300330;CA Laval Agglomération;;;;13,9
+56;245600341;CA du Pays de Lorient;;;;15,9
+56;245600366;CA du Pays de Vannes Agglomération;;;;14,76
+57;245700216;CA de Sarreguemines Confluences;;;;14,43
+57;245700240;CA de Metz Métropole (CA 2M);;;;15,63
+57;245700372;CA de Forbach - Porte de France;;;;14,46
+57;245701222;CA du Val de Fensch;;;;12,22
+57;245701362;CA Portes de France-Thionville;;;;14,94
+58;245804406;CA de Nevers;;;;15,32
+59;245900634;CA de Cambrai;;;;14,18
+59;245901087;CA Maubeuge Val de la Sambre;;;;17,62
+59;245901145;CA de la Porte du Hainaut;;;;19,14
+59;245901160;CA de Valenciennes Métropole;;;;18,35
+59;245901228;CA du Douaisis;;;;12,83
+60;246000830;CA du Beauvaisis;;;;15,67
+60;246001010;CA de la Région de Compiègne;;;;11,85
+61;246100325;CA du Pays de Flers;;;;11,93
+62;246200141;CA de l’Artois;;;;14,95
+62;246200299;CA d’Hénin Carvin;1,06;2,11;6,73;23,75
+62;246200364;CA de Lens - Liévin;;;;20,73
+62;246200455;CA de Saint Omer;;;;13,64
+62;246200729;CA du Boulonnais;;;;21,72
+62;246201149;CA du Calaisis;;;;15,7
+63;246300701;CA Clermont Communauté;;;;15,52
+64;246400030;CA de Bayonne Anglet Biarritz;;;;22,43
+64;246401723;CA de Pau - Pyrénées;;;;24,65
+65;246500565;CA du Grand Tarbes (CAGT);;;;18,09
+66;246600381;CA Perpignan Méditerranée;;;;19,4
+68;246800619;CA Mulhouse Sud Alsace;0,767;1,02;3,14;17,98
+68;246800726;CA de Colmar;;;;11,95
+69;246900229;CA de Villefranche-sur-Saône;;;;13,5
+71;247100589;CA Chalon - Val de Bourgogne;;;;14,2
+71;247104193;CA du Mâconnais- Val de Saône;;;;16,01
+73;247300098;CA Chambéry Métropole;;;;19,09
+74;247400427;CA Annécienne;;;;19,17
+76;247600042;CA Elbeuf - Boucle de Seine;;;;13,98
+76;247600471;CA Rouennaise;;;;16,02
+76;247600596;CA Havraise- CODH;;;;15,69
+76;247600786;CA de la Région Dieppoise;;;;12,46
+77;247700057;CA Melun Val de Seine;;;;15,21
+77;247700594;CA de Marne et Gondoire;;;;12,85
+77;247700628;CA du Pays de Meaux;;;;14,69
+78;247800014;CA de Mantes en Yvelines (CAMY);;;;18,18
+78;247800451;CA de Saint Quentin en Yvelines;;;;18,4
+79;247900806;CA de Niort;;;;16,38
+80;248000531;CA Amiens Métropole;;;;15,27
+81;248100430;CA de Castres Mazamet;;;;19,32
+81;248100737;CA de l’Albigeois;;;;22,3
+82;248200099;CA du Pays de Montauban et des Trois Rivières;0,2;0,45;1,61;18,02
+83;248300097;CA de Fréjus - Saint Raphaël;;;;12,86
+83;248300493;CA Dracénoise;;;;18,3
+83;248300543;CA Toulon Provence Méditerranée;0,248;0,343;0,838;25,77
+84;248400053;CA Ventoux Comtat Venaissin;;;;22,92
+84;248400251;CA du Grand Avignon;;;;24,3
+86;248600157;CA de Poitiers;;;;17,84
+86;248600413;CA du Pays Châtelleraudais;;;;19,24
+87;248719312;CA de Limoges Métropole;;;;15,93
+90;249000019;CA Belfortaine;;;;17,88
+91;249100348;CA d'Évry Centre Essonne;;;;16,22
+91;249100405;CA du Plateau de Saclay;;;;15,69
+91;249100470;CA de Seine-Essonne;;;;15,8
+91;249100504;CA du Val d’Orge;;;;19,54
+91;249100512;CA du Val d'Yerres;0,488;0,583;1,68;15,66
+91;249100520;CA Sénart Val de Seine;;;;14,86
+91;249100579;CA Les Lacs de l'Essonne;;;;22,95
+92;249200015;CA des Hauts de Bièvre;;;;11,97
+92;249200023;CA Arc de Seine;;;;12,71
+92;249200031;CA Val-de-Seine;;;;8,99
+92;249200049;CA Coeur de Seine;;;;7,5
+92;249200056;CA Sud de Seine;;;;12,74
+93;249300070;CA de Clichy sous Bois - Montfermeil;;;;22,36
+93;249300088;CA Plaine Commune;;;;21,7
+94;249400060;CA Val de Bièvre;;;;23,18
+94;249400078;CA de la Vallée de la Marne;;;;21,55
+94;249400086;CA le Haut Val de Marne;;;;18,24
+94;249400094;CA Plaine Centrale du Val de Marne;;;;24,23
+95;200000776;CA Argenteuil - Bezons;;;;19,66
+95;249500109;CA de Cergy-Pontoise;;;;15,94
+95;249500380;CA Val de France;;;;16,91
+95;249500398;CA Val et Forêt;;;;16,41
+95;249500414;CA de la Vallée de Montmorency;;;;18,97
+972;249720053;CA de l’Espace Sud Martinique;1,02;2,16;1,48;11,82
+972;249720061;CA du Centre de la Martinique;;;;13,99
+974;249740077;CA CIVIS (Communauté Villes Solidaires);;;;20,91
+974;249740093;CA Intercommunale de la Réunion Est (CIREST);;;;22,68
+974;249740101;CA Territoire de la Côte Ouest (TCO);;;;17,38
+974;249740119;CA Intercommunale du Nord de la Réunion (CINOR);;;;15,52
